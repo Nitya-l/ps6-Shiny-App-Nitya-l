@@ -1,10 +1,10 @@
-# H1 **Project Summary** 
+# **Project Summary** 
 [Link to Shiny App]( https://nitya-l.shinyapps.io/ps6-Nitya-l/)
 
-# H2 **Data Summary**
+## **Data Summary**
 The pathogen data used to create this app is from researchers at the Institute for Health Metrics and Evaluation in 2019. It provides estimates of deaths due to various infections caused by 33 different pathogens across the world in 204 different countries. These estimates were made based on 343 millions of individual records and come from sources like hospital discharges, tissue samples,literature review, and microbiology lab results from national and multi-national surveillance systems. We hope to use this data to provide health professionals with a better understanding of fatal pathogens to increase the quality of care they are able to provide.
 
-# H2 **App and Widget Summary**
+## **App and Widget Summary**
 
 My app in particular is only a small portion of the bigger idea we had for our final project. As a whole, our app will provide various features that help health officials understand fatal pathogens and how they present in people around the world better. This app in particular addresses the various symptoms correlated with the different age groups data was collected from. By analyzing common symptoms depending on the age group of the patient, doctors and scientists will have a better idea of what issues they need to develop treatments for. 
 
