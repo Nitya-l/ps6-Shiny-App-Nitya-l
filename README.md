@@ -1,6 +1,8 @@
 # **Project Summary** 
 [Link to Shiny App]( https://nitya-l.shinyapps.io/ps6-Nitya-l/)
 
+I spent a total of 3 hours on this problem set. 
+
 ## **Data Summary**
 The pathogen data used to create this app is from researchers at the Institute for Health Metrics and Evaluation in 2019. It provides estimates of deaths due to various infections caused by 33 different pathogens across the world in 204 different countries. These estimates were made based on 343 millions of individual records and come from sources like hospital discharges, tissue samples,literature review, and microbiology lab results from national and multi-national surveillance systems. We hope to use this data to provide health professionals with a better understanding of fatal pathogens to increase the quality of care they are able to provide.
 
